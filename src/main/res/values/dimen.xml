@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_tiny">12dp</dimen>
+    <dimen name="InsTextSize">18sp</dimen>
+    <dimen name="textSize">24sp</dimen>
+    <dimen name="AnsSize">30sp</dimen>
+    <dimen name="textSize2">22sp</dimen>
+    <dimen name="paddingtop">12dp</dimen>
+    <dimen name="paddingleft">12dp</dimen>
+    <dimen name="paddingbottom">12dp</dimen>
+    <dimen name="paddingright">12dp</dimen>
+    <dimen name="margintop">16dp</dimen>
+    <dimen name="margintoo">25dp</dimen>
+    <dimen name="marginRadio">22dp</dimen>
+    <dimen name="marginbottom">16dp</dimen>
+    <dimen name="textMarginRight">80dp</dimen>
+    <dimen name="marginleft">16dp</dimen>
+</resources>
